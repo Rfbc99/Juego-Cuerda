@@ -3,7 +3,7 @@
 ¡Bienvenidos a **Cuerda Caliente**, el minijuego más emocionante y desafiante inspirado en los clásicos de **Mario Party**!
 🌡️ En este proyecto, estamos desarrollando una versión épica de este juego de saltos y reflejos. 🚀
 
-## 🔥 ¿De qué trata "Cuerda Caliente"?
+## 🔥 ¿De qué trata "Cuerda"?
 
 Imagina que tú y tus amigos están atrapados en una plataforma con una cuerda de fuego que **nunca deja de moverse**... y cada segundo ¡se vuelve más rápida! ⚡🌪️
 
